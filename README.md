@@ -12,3 +12,4 @@ and compared against ARTEM/STEM and other memory systems.
 
 > Third-party folders retain their original `LICENSE` files; they are included here as the
 > systems CIRCUIT builds on / benchmarks against.
+# CIRCUIT-Memory
