@@ -14,3 +14,9 @@ venv/
 # OS / editor
 .DS_Store
 *.swp
+
+# ARTEM pipeline: data/results output (không push dataset/kết quả chạy)
+ARTEM/data_root_*/
+ARTEM/*.log
+ARTEM/*checkpoint*.jsonl
+ARTEM/*.pkl
